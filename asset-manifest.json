@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.d2ef6768.css",
-    "main.js": "/portifolio/static/js/main.4d8942a5.js",
+    "main.css": "/portifolio/static/css/main.c8fa534a.css",
+    "main.js": "/portifolio/static/js/main.c0cd75f0.js",
     "static/js/453.9c226ca7.chunk.js": "/portifolio/static/js/453.9c226ca7.chunk.js",
     "static/media/valorBanc.gif": "/portifolio/static/media/valorBanc.83b0ff5f0e486e520cff.gif",
     "static/media/hotelNorte.gif": "/portifolio/static/media/hotelNorte.59afe0ee968069dc03a3.gif",
@@ -10,12 +10,17 @@
     "static/media/landingPage.png": "/portifolio/static/media/landingPage.9af504839f41910cfa9e.png",
     "static/media/crudStore.gif": "/portifolio/static/media/crudStore.b12495dfc6157436036d.gif",
     "static/media/mysql.png": "/portifolio/static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/whatsapp.png": "/portifolio/static/media/whatsapp.d026940870fb334920b7.png",
     "static/media/nodejs (1).png": "/portifolio/static/media/nodejs (1).007e99f68b718e476aba.png",
     "static/media/perfil.jpg": "/portifolio/static/media/perfil.545fe215d692f1655d86.jpg",
     "static/media/calcIMC.PNG": "/portifolio/static/media/calcIMC.b3844cf39a2b1ceb756b.PNG",
+    "static/media/whatsapp1.png": "/portifolio/static/media/whatsapp1.e4dbb3efc4b59006206c.png",
+    "static/media/instagram.png": "/portifolio/static/media/instagram.b4ff9be06a8f84fada1b.png",
+    "static/media/github.png": "/portifolio/static/media/github.44eee0c4a6c25b0d7347.png",
     "static/media/figma.png": "/portifolio/static/media/figma.72fbc535ebe253a5dbc4.png",
     "static/media/html-5.png": "/portifolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
     "static/media/css.png": "/portifolio/static/media/css.d2811e5969760ef58072.png",
+    "static/media/linkedin.png": "/portifolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
     "static/media/mongodb-original-wordmark.svg": "/portifolio/static/media/mongodb-original-wordmark.52300335cb1653f2a8fa072873a6cc17.svg",
     "static/media/bootstrap.png": "/portifolio/static/media/bootstrap.268c4375260420e8d982.png",
     "static/media/js.png": "/portifolio/static/media/js.3dfb665e058d08c99f28.png",
@@ -24,12 +29,12 @@
     "static/media/file-type-firebase.svg": "/portifolio/static/media/file-type-firebase.d770ed71d4d33ffa60f8cae9b7ba0350.svg",
     "index.html": "/portifolio/index.html",
     "static/media/react.svg": "/portifolio/static/media/react.b946632138100ea159504d065878af79.svg",
-    "main.d2ef6768.css.map": "/portifolio/static/css/main.d2ef6768.css.map",
-    "main.4d8942a5.js.map": "/portifolio/static/js/main.4d8942a5.js.map",
+    "main.c8fa534a.css.map": "/portifolio/static/css/main.c8fa534a.css.map",
+    "main.c0cd75f0.js.map": "/portifolio/static/js/main.c0cd75f0.js.map",
     "453.9c226ca7.chunk.js.map": "/portifolio/static/js/453.9c226ca7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2ef6768.css",
-    "static/js/main.4d8942a5.js"
+    "static/css/main.c8fa534a.css",
+    "static/js/main.c0cd75f0.js"
   ]
 }
