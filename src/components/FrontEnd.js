@@ -138,7 +138,7 @@ function FrontEnd(){
             </div>
             </a>
 
-            <a href="https://cristianrs-dev.github.io/CRUD-LOCALSTORAGE/">
+            <a href=" https://cristianrs-dev.github.io/Plano_de_aula-Crud-localstorage/">
             <div className='item-card' >
                 <div className='card-imagem' >
                         

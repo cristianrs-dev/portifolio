@@ -10,7 +10,7 @@ function Header(){
     return(
         <header>
             <div id="topo" className="header" >
-            <Logo logo="Coders Academy" ></Logo>
+            <Logo logo="Meu portfolio" ></Logo>
             <MenuMobile links={links} ></MenuMobile>
             <MenuDesktop links={links}></MenuDesktop>
             <BtnWhatsapp></BtnWhatsapp>

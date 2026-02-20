@@ -17,8 +17,7 @@ function Footer(){
             <div className="footer-about">
                 <h3>Sobre</h3>
                 <p>Cristian Ramos possui formação como técnico em desenvolvimento de sistemas pelo Senac - RS,
-                     analista de sistemas pelo Centro Universitário Unifavip, atua como freelancer desde 2019, é professor de informática, 
-                     consultor, fundador da Coders Academy</p>
+                     analista de sistemas pelo Centro Universitário Unifavip, atua como freelancer desde 2019 e professor de informática</p>
             </div>
             
             
