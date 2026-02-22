@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.c8fa534a.css",
-    "main.js": "/portifolio/static/js/main.c0cd75f0.js",
-    "static/js/453.9c226ca7.chunk.js": "/portifolio/static/js/453.9c226ca7.chunk.js",
+    "main.css": "/portifolio/static/css/main.45a6d254.css",
+    "main.js": "/portifolio/static/js/main.7df58322.js",
+    "static/js/453.35ccda16.chunk.js": "/portifolio/static/js/453.35ccda16.chunk.js",
     "static/media/valorBanc.gif": "/portifolio/static/media/valorBanc.83b0ff5f0e486e520cff.gif",
     "static/media/hotelNorte.gif": "/portifolio/static/media/hotelNorte.59afe0ee968069dc03a3.gif",
     "static/media/paginaConteudo.gif": "/portifolio/static/media/paginaConteudo.297f277413c304ea19a4.gif",
@@ -29,12 +29,12 @@
     "static/media/file-type-firebase.svg": "/portifolio/static/media/file-type-firebase.d770ed71d4d33ffa60f8cae9b7ba0350.svg",
     "index.html": "/portifolio/index.html",
     "static/media/react.svg": "/portifolio/static/media/react.b946632138100ea159504d065878af79.svg",
-    "main.c8fa534a.css.map": "/portifolio/static/css/main.c8fa534a.css.map",
-    "main.c0cd75f0.js.map": "/portifolio/static/js/main.c0cd75f0.js.map",
-    "453.9c226ca7.chunk.js.map": "/portifolio/static/js/453.9c226ca7.chunk.js.map"
+    "main.45a6d254.css.map": "/portifolio/static/css/main.45a6d254.css.map",
+    "main.7df58322.js.map": "/portifolio/static/js/main.7df58322.js.map",
+    "453.35ccda16.chunk.js.map": "/portifolio/static/js/453.35ccda16.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8fa534a.css",
-    "static/js/main.c0cd75f0.js"
+    "static/css/main.45a6d254.css",
+    "static/js/main.7df58322.js"
   ]
 }
